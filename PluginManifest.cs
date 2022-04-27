@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using YumeChan.PluginBase;
 
-namespace YumeChan.PluginSampleCS;
+namespace BloodyTakao.RandomGif;
 
 // This Class defines the Plugin, and makes it visible to the Loader.
 public class PluginManifest : Plugin // This Class MUST be set as public to get picked up by the Plugin Loader.
